@@ -17,3 +17,7 @@ https://deanalexander.shinyapps.io/Dean_LBB_IP/
 - selectInput
 - Interactive plot (plotly) output
 - Data table output
+
+# Styling
+Default theme using dasboard skins = "red"
+![image](https://user-images.githubusercontent.com/123348110/224460750-ae28e2ac-d319-4405-b1ef-9f2b6353985e.png)
