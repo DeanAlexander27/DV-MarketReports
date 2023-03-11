@@ -8,6 +8,7 @@ https://deanalexander.shinyapps.io/Dean_LBB_IP/
 
 - Boxes:
   - Info Box
+  - Tab Box
 - Neat `fluidRow` layouting
 - Skins
 
